@@ -1,7 +1,9 @@
 # [deeplearning.ai](https://www.deeplearning.ai/)
 
 
-The notes ~~and answers~~ of Adrew Ng's coursera course: deeplearning.ai
+The notes ~~and answers~~ of Adrew Ng's coursera course: deeplearning.ai 
+
+The first three courses may include some error, please let me know if you have problems, I will help you to fix it. Email is the fast way to contract with me. 
 
 
 WARNING: 
@@ -21,3 +23,5 @@ This is only for references only for one who have passed the courses. Copy the r
 2017.09.05  第一次课程week2 加入dataset数据。	
 
 2017.09.06  删除所有答案。只保留数据和代码
+
+2017.09.28  删除了选择题答案。
