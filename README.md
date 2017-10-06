@@ -3,7 +3,10 @@
 
 The notes ~~and answers~~ of Adrew Ng's coursera course: deeplearning.ai 
 
-The first three courses may include some error, please let me know if you have problems, I will help you to fix it. Email is the fast way to contract with me. 
+The first three courses may include some error, please let me know if you have problems, I will help you to fix it. Email is the fast way to contract with me. You can also open an "ISSUE" from the github. (你可以通过开启ISSUE或者直接邮件联系我，邮件基本24小时都会回复，issue有时候回复比较慢。)
+
+
+If you want to learn basic concept and pratice programme skills about machine learning, you can also try my [github folder](https://github.com/XingxingHuang/Machine_Learning_Projects/machine_learning_algorithms_python). It includes the python implementations of the basic machine learning programs. It helps a lot if you implement all basic algorithms by yourself. 
 
 
 WARNING: 
