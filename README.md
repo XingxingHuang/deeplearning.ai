@@ -3,7 +3,7 @@
 
 The notes ~~and answers~~ of Adrew Ng's coursera course: deeplearning.ai 
 
-The first three courses may include some error, please let me know if you have problems, I will help you to fix it. Email is the fast way to contract with me. You can also open an "ISSUE" from the github. (你可以通过开启ISSUE或者直接邮件联系我，邮件基本24小时都会回复，issue有时候回复比较慢。)
+<!--The first three courses may include some error, please let me know if you have problems, I will help you to fix it. -->Email is the fast way to contract with me. You can also open an "ISSUE" from the github. (你可以通过开启ISSUE或者直接邮件联系我，邮件基本24小时都会回复，issue有时候回复比较慢。) The assignment of the course changes very much. So I decide not update the notebook any more. Please go to the official website to get the notebooks. 
 
 
 If you want to learn basic concept and pratice programme skills about machine learning, you can also try my [github folder](https://github.com/XingxingHuang/Machine_Learning_Projects/machine_learning_algorithms_python). It includes the python implementations of the basic machine learning programs. It helps a lot if you implement all basic algorithms by yourself. 
@@ -28,3 +28,5 @@ This is only for references only for one who have passed the courses. Copy the r
 2017.09.06  删除所有答案。只保留数据和代码
 
 2017.09.28  删除了选择题答案。
+
+2017.11.07  更新第四课程的笔记
