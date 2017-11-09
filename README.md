@@ -3,19 +3,18 @@
 
 The notes ~~and answers~~ of Adrew Ng's coursera course: deeplearning.ai 
 
-<!--The first three courses may include some error, please let me know if you have problems, I will help you to fix it. -->Email is the fast way to contract with me. You can also open an "ISSUE" from the github. (你可以通过开启ISSUE或者直接邮件联系我，邮件基本24小时都会回复，issue有时候回复比较慢。) The assignment of the course changes very much. So I decide not update the notebook any more. Please go to the official website to get the notebooks. 
+If you want to download the slides and the notebooks please check [shahariarrabby/deeplearning.ai](https://github.com/shahariarrabby/deeplearning.ai) In my github, I add some notes while I complete the specifications.
+
+
+
+
+
+<!--The first three courses may include some error, please let me know if you have problems, I will help you to fix it. -->Email is the fast way to contract with me. You can also open an "ISSUE" from the github. (你可以通过开启ISSUE或者直接邮件联系我，邮件24小时都会回复) The assignment of the course changes very much. So I decide not update the notebook any more. Please go to the official website to get the notebooks. 
 
 
 If you want to learn basic concept and pratice programme skills about machine learning, you can also try my [github folder](https://github.com/XingxingHuang/Machine_Learning_Projects/machine_learning_algorithms_python). It includes the python implementations of the basic machine learning programs. It helps a lot if you implement all basic algorithms by yourself. 
 
 
-WARNING: 
-
-~~DO NOT COPY MY ANSWERS TO YOUR COURSES! ~~ I have deleted all the answers.
-
-This is only for references only for one who have passed the courses. Copy the results will violate the coursera rules. It's better to ask for help in the forum or email me for any questions.  
-
-这门课的作业里面都包含测试代码，只要本地测试通过就可以保证自己的代码是正确的，强烈建议自己将作业内容做一遍。
 
 ---
 * If you find this github violates the rules of the coursera, please let me know. 

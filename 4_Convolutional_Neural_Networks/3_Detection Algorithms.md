@@ -28,3 +28,8 @@
  - Joseph Redmon, Ali Farhadi - [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) (2016)
  - Allan Zelener - [YAD2K: Yet Another Darknet 2 Keras](https://github.com/allanzelener/YAD2K)
  - The official YOLO website (https://pjreddie.com/darknet/yolo/) 
+
+* reference for ResNet model
+
+ - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun - [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/abs/1512.03385)
+ - Francois Chollet's github repository: [https://github.com/fchollet/deep-learning-models/blob/master/resnet50.py](https://github.com/fchollet/deep-learning-models/blob/master/resnet50.py)
