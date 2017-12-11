@@ -28,6 +28,8 @@ If you want to learn basic concept and pratice programme skills about machine le
 
 2017.09.28  删除了选择题答案。
 
-2017.11.07  更新第四课程的笔记
+2017.11.07  更新第四课程的笔记。
 
-2017.11.17 add quiz for course 4 without solution.
+2017.11.17  加入course 4 的笔记，quiz题目。
+
+2017.12.15  加入course 5 的笔记。
