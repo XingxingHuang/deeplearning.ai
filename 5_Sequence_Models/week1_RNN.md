@@ -29,3 +29,15 @@ doesn't share features learned across different positions of text.
 * (v8, v9) 详细介绍了精髓 GRU 和 LSTM，花时间自己画一画结构，写出公式会非常帮助理解。
 * (v9) LSTM 对GRU进行了优化。除了本身的update gate，还包括 forget gate， output gate。
 * Bidirectional RNN 解决了序列中预测可能同时与前后都有关系的问题。
+
+# Assignment
+### Building a recurrent neural network - step by step (2h)
+	
+### Character-Level Language Modeling (1h)
+**References**:
+
+- To see the results of a slightly more complicated model, check out andrej karpathy's [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
+
+- This notebook has been highly inspired and has used code from Andrej Karpathy's implementation: https://gist.github.com/karpathy/d4dee566867f8291f086
+
+### Music Generation using RNN with LSTM (1h)
