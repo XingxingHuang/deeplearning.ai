@@ -1,15 +1,14 @@
 # [deeplearning.ai](https://www.deeplearning.ai/)
 
 
-The notes ~~and answers~~ of Adrew Ng's coursera course: deeplearning.ai 
+The notes ~~and answers~~ of Adrew Ng's coursera course: deeplearning.ai. Course 5 will be released in December.
 
-If you want to download the slides and the notebooks please check [shahariarrabby/deeplearning.ai](https://github.com/shahariarrabby/deeplearning.ai) In my github, I add some notes while I complete the specifications.
+- If you want to download the slides and the notebooks and do it yourself. please check this repo [shahariarrabby/deeplearning.ai](https://github.com/shahariarrabby/deeplearning.ai)
+
+- If you cannot access the quiz and want to find the answer, you can send me your result or meet any difficulties, feel free to give me email.
 
 
-
-
-
-<!--The first three courses may include some error, please let me know if you have problems, I will help you to fix it. -->Email is the fast way to contract with me. You can also open an "ISSUE" from the github. (你可以通过开启ISSUE或者直接邮件联系我，邮件24小时都会回复) The assignment of the course changes very much. So I decide not update the notebook any more. Please go to the official website to get the notebooks. 
+<!--The first three courses may include some error, please let me know if you have problems, I will help you to fix it. -->Email is the fast way to contract with me. You can also open an "ISSUE" from the github. (你可以通过开启ISSUE或者直接邮件联系我，邮件24小时都会回复) The assignment of the course changes very much from time to time. So I decide not update the notebook any more. Please go to the official website to get the notebooks or check the above github repo. 
 
 
 If you want to learn basic concept and pratice programme skills about machine learning, you can also try my [github folder](https://github.com/XingxingHuang/Machine_Learning_Projects/machine_learning_algorithms_python). It includes the python implementations of the basic machine learning programs. It helps a lot if you implement all basic algorithms by yourself. 
