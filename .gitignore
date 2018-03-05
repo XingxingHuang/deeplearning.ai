@@ -1,0 +1,10 @@
+#Jupyter Notebook files
+*.ipynb
+/.ipynb_checkpoints
+
+# PyCharm files
+*.idea/
+*.pyc
+
+# osx files
+*.DS_store
