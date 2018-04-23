@@ -7,7 +7,7 @@ The ~~notes and answers~~ of Adrew Ng's coursera course: deeplearning.ai. Course
 
 - If you cannot access the quiz and want to find the answer, you can send me your result or meet any difficulties, feel free to give me email.
 
-- 如果你需要详细的课程笔记，可以参考黄海广博士的[公益项目](http://www.ai-start.com/). 
+- 如果你需要详细的课程笔记，可以参考黄海广博士的[公益项目](http://www.ai-start.com/), [Github地址](https://github.com/fengdu78/deeplearning_ai_books).
 
 
 <!--The first three courses may include some error, please let me know if you have problems, I will help you to fix it. -->Email is the fast way to contract with me. You can also open an "ISSUE" from the github. (你可以通过开启ISSUE或者直接邮件联系我，邮件24小时都会回复) The assignment of the course changes very much from time to time. So I decide not update the notebook any more. Please go to the official website to get the notebooks or check the above github repo. 
