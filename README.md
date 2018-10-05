@@ -21,6 +21,7 @@ If you want to learn basic concept and pratice programme skills about machine le
 * If you find this github violates the rules of the coursera, please let me know. 
 * Questions are welcome!
 * ~中国国内的网易平台已经公开了这个课程的视频，但是没有项目的代码。我想将所有的代码和数据都保存下来。 ~~但是网站上的.h5文件我现在无法完全下载下来，如果知道下载方法，麻烦email给我~~ (感谢YuanZhang提供下载方法)。~
+* I learned this course before I join Andrew's company. This is a personal notes for the course.
 
 ### 更新
 2017.09.05  第一次课程week2 加入dataset数据。	
